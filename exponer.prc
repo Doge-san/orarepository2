@@ -3,4 +3,5 @@ as
 resulted float; --such float, very change
 begin
 dbms_output.put_line(power(base,exponent)); -- added comment, much wow!
+null; -- waiting for rest of the code
 end;
